@@ -8,6 +8,7 @@
     font-size: 24px;
     font-weight: 100;
     margin-bottom: 0;
+    color: #FFF
   }
   
   .Weather ul {
@@ -20,15 +21,16 @@
   .Weather li {
     list-style: none;
     text-transform: capitalize;
+    color: #FFF
   }
   
   .Weather .farenheit-link {
-    color: #fff;
+    color: #FFF;
     text-decoration: none;
   }
   
   .Weather .celsius-link {
-    color: #fff;
+    color: #FFF;
     text-decoration: none;
   }
   
@@ -39,7 +41,7 @@
   
   .Weather .overview .temperature {
     font-size: 60px;
-    color: #fff;
+    color: #FFF;
     position: relative;
     top: 17px;
   }
@@ -74,7 +76,7 @@
   }
   
   .Weather .my-name {
-    color: #000;
+    color: #FFF;
     opacity: 0.5;
   }
   

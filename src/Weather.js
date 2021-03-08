@@ -72,7 +72,7 @@ export default function Weather() {
       <div classNameName="source-code">
         <small>
           <a
-            href="https://github.com/D-aisy/Vanilla-weather-app"
+            href="https://github.com/D-aisy/react-weather"
             rel="noreferrer"
             target="_blank"
           >
